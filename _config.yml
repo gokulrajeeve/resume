@@ -43,7 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
   My interest areas are: <mark>Python</mark> and <mark>Robotics</mark>
 
 content:
- - title: Education # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
