@@ -65,7 +65,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Can adapt to diverse team environments
       - Proficient in both oral and written communication skills
-      - Quick learner
+      - Understand and learn new concepts quickly
       - Problem solving and analytical skills
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
