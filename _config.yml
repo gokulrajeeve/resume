@@ -57,19 +57,34 @@ content:
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Langauges:**    C++, Python, MATLAB 
-      - **Web Technologies:**    HTML5, CSS3, Static Site Generators (Jekyll) 
+      - **Langauges:**    C++, Python, MATLAB, JavaScript
+      - **Web Technologies:**    HTML5, CSS3, Angular.js, Bootstrap 
       - **Others:**    MySQL, DBMS, CAD, Lathe Operation, PLC, CNC , RHINO
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Can adapt to diverse team environments
       - Proficient in both oral and written communication skills
-      - Quick learner
+      - Understand and learn new concepts quickly
       - Problem solving and analytical skills
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+          - layout: left
+        title: Product Engineer Trainee(Frugal Scientific Pvt Ltd)
+        link: 
+        # link_text: boringcompany.com
+        sub_title: 
+        caption: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+            -	Establish test procedures for quality assurance following product lifecycle.
+            -	A firm understanding of development and product lifecycle and supporting resources.
+            -	Conducted demos and reviews for clients, simultaneously assisting development team to integrate
+              required design and functionality components.
+            -	Collaborated with development team to provide ideal scenarios for ERP web portals.
+            -Developed a membership website with multiple portal access and Master admin capabilities.
       - layout: left
         title: Anand Track and Field
         link: 
