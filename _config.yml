@@ -57,9 +57,9 @@ content:
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Langauges:**    C++, Python, MATLAB, JavaScript
+      - **Langauges:**    C++, Python, JavaScript
       - **Web Technologies:**    HTML5, CSS3, Angular.js, Bootstrap 
-      - **Others:**    MySQL, DBMS, CAD, Lathe Operation, PLC, CNC , RHINO
+      - **Others:**    MySQL, DBMS, CAD, Lathe Operation, PLC, CNC , RHINO, MATLAB
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
